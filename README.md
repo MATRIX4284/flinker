@@ -1,6 +1,6 @@
 # flinker
 
-flinker is a program that creates distrbuted Flink Cluster on the fly and submits a Flinkl job without any manual intervenation.
+flinker is a program that creates distrbuted Flink Cluster on the fly and submits a Flink job without any manual intervenation.
 
 Create a Flink 1.6 Cluster with the number of Worker nodes(Task Mangers) you want to have and Run a jar file at startup in a single command based application.
 
@@ -30,4 +30,4 @@ arg2:The jar file which you want to deploy to the flink cluster.
 
 Go to your localhost:8077 to view the flink cluster.
 
-Good Luck with Your First Flink Program
+Now Testing your Flink Application is just FUN!!
