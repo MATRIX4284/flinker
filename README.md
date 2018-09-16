@@ -7,8 +7,9 @@ No need to manually deploy jars.
 2.Copy your scala maven project build jar for Flink to this repository.
 
 
-3.Run the shell script Flying_flink.sh.
+3.Run the shell script Flying_flink.sh using the command below.
 
+./Flying_flink.sh 2 scala-flink-test-1.0.0-jar-with-dependencies.jar
 
 Arguments:
 
